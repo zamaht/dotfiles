@@ -1,2 +1,2 @@
-# hypr_config
-my hyprland config
+# Arch config
+my arch config
