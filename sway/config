@@ -275,7 +275,7 @@ client.focused #a6e3a1 #a6e3a1 #a6e3a1 #a6e3a1
 # Windows
 corner_radius 10
 blur enable
-shadows enable
-shadow_blur_radius 99
+#shadows enable
+#shadow_blur_radius 99
 
 include /etc/sway/config.d/*
